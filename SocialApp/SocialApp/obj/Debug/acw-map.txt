@@ -1,0 +1,16 @@
+SocialApp.MainActivity, SocialApp;md52de03cb3ce851c993f3406e1376c6df3.MainActivity
+SocialApp.MainActivity, SocialApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52de03cb3ce851c993f3406e1376c6df3.MainActivity
+SocialApp.MainActivity;md52de03cb3ce851c993f3406e1376c6df3.MainActivity
+socialapp.MainActivity;md52de03cb3ce851c993f3406e1376c6df3.MainActivity
+SocialApp.Profile, SocialApp;md52de03cb3ce851c993f3406e1376c6df3.Profile
+SocialApp.Profile, SocialApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52de03cb3ce851c993f3406e1376c6df3.Profile
+SocialApp.Profile;md52de03cb3ce851c993f3406e1376c6df3.Profile
+socialapp.Profile;md52de03cb3ce851c993f3406e1376c6df3.Profile
+SocialApp.profileFeed, SocialApp;md52de03cb3ce851c993f3406e1376c6df3.profileFeed
+SocialApp.profileFeed, SocialApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52de03cb3ce851c993f3406e1376c6df3.profileFeed
+SocialApp.profileFeed;md52de03cb3ce851c993f3406e1376c6df3.profileFeed
+socialapp.profileFeed;md52de03cb3ce851c993f3406e1376c6df3.profileFeed
+SocialApp.RegisterVeiw, SocialApp;md52de03cb3ce851c993f3406e1376c6df3.RegisterVeiw
+SocialApp.RegisterVeiw, SocialApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52de03cb3ce851c993f3406e1376c6df3.RegisterVeiw
+SocialApp.RegisterVeiw;md52de03cb3ce851c993f3406e1376c6df3.RegisterVeiw
+socialapp.RegisterVeiw;md52de03cb3ce851c993f3406e1376c6df3.RegisterVeiw
